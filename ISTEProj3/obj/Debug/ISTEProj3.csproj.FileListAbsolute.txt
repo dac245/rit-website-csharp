@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\ISTEProj3\ISTEProj3\bin\Debug\ISTEProj3.exe.config
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\bin\Debug\ISTEProj3.exe.config
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\bin\Debug\ISTEProj3.exe
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\bin\Debug\ISTEProj3.pdb
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.Form1.resources
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.Properties.Resources.resources
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.exe
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.pdb
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.Tables.resources
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.Tables2.resources
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.Citas.resources
+C:\Users\David\Desktop\Proj3Stuff\ISTEProj3\ISTEProj3\obj\Debug\ISTEProj3.WebMap.resources
